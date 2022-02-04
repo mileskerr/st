@@ -1,0 +1,8 @@
+*.diff
+*.o
+*.old
+*.orig
+config.def.h.orig
+*.rej
+st
+hb*
